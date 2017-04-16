@@ -1,0 +1,19 @@
+{
+  "name": "compare-routes",
+  "version": "0.0.1",
+  "description": "get difference between osm and ap1 bus routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pub-t/compare-routes.git"
+  },
+  "author": "pub-t",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pub-t/compare-routes/issues"
+  },
+  "homepage": "https://github.com/pub-t/compare-routes#readme"
+}
